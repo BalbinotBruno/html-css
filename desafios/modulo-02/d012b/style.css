@@ -14,7 +14,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-size: 1m;
+    font-size: 1em;
    
 }
 
@@ -97,7 +97,8 @@ section#img01{
 
 section#img02{
     background-image: url('imagens/background002.jpg');
-  
+    background-position: right center;
+    width: 100vw;
 }
 
 footer{
